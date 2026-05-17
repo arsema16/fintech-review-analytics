@@ -1,6 +1,6 @@
 # Fintech Review Analytics
 
-A data engineering pipeline for scraping, analyzing, and visualizing Google Play Store reviews for Ethiopian banking apps.
+ A data engineering pipeline for scraping, analyzing, and visualizing Google Play Store reviews for Ethiopian banking apps.
 
 ## Project Overview
 
