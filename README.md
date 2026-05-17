@@ -74,6 +74,7 @@ Initial package names were incorrect, resulting in 0 reviews. Manual search iden
 | Commercial Bank of Ethiopia | 4.15★ |
 
 ## Project Structure
+```text
 fintech-review-analytics/
 ├── .github/workflows/
 │ └── unittests.yml
@@ -86,7 +87,7 @@ fintech-review-analytics/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
-
+```
 ## Setup Instructions
 
 ```bash
